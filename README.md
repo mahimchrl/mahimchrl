@@ -9,6 +9,8 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mahi.mchrl/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mahi.mchrl/0" alt="Recent Article 0">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://medium.com/@mahi.mchrl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mahi.mchrl" height="30" width="40" /></a>
