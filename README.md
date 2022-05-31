@@ -22,3 +22,5 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mahi.mchrl/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mahi.mchrl/0" alt="Recent Article 0">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahimchrl&" alt="mahimchrl" /></p>
+  
+![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahimchrl&show_icons=true&theme=vue)
